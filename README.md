@@ -48,7 +48,9 @@ En este proyecto integramos diversas herramientas distribuidas en tres áreas cl
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+diff
 - Esto se ve en rojo (como un error o algo quitado)
 + Esto se ve en verde (como algo agregado o un éxito)
 ! Esto se ve en naranja (como una advertencia)
+
 
