@@ -13,7 +13,7 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 ### Datos del Estudiante
 | Apellido y Nombre | E-mail | GitHub |
 | :---: | :---: | :---: |
-| SERMINATTI, Alejo | aserminatti@escuelasproa.edu.ar| [ver perfil](https://github.com/alejoserminatti5) |
+| SERMINATTI, Alejo | aserminatti@escuelasproa.edu.ar | [ver perfil](https://github.com/alejoserminatti5)|
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
